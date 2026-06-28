@@ -1,0 +1,14 @@
+{
+  "name": "reverse-prompt-engineer",
+  "owner": {
+    "name": "Calum Simpson",
+    "email": "calumjs@live.com"
+  },
+  "plugins": [
+    {
+      "name": "reverse-prompt-engineer",
+      "source": "./",
+      "description": "Reverse-engineer the prompt that most likely produced a given piece of text, via a fan-out guess -> execute (clean room) -> score -> steer workflow with verbatim-leakage and length penalties."
+    }
+  ]
+}

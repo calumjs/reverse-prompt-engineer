@@ -1,0 +1,16 @@
+{
+  "name": "reverse-prompt-engineer",
+  "description": "Reverse-engineer the prompt that most likely produced a given piece of text, via a fan-out guess -> execute (clean room) -> score -> steer workflow with verbatim-leakage and length penalties.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Calum Simpson",
+    "email": "calumjs@live.com"
+  },
+  "keywords": [
+    "prompt-engineering",
+    "reverse-engineering",
+    "workflow",
+    "multi-agent",
+    "skill"
+  ]
+}
