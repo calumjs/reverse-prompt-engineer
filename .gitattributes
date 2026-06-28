@@ -1,0 +1,6 @@
+# Keep LF on checkout everywhere so the workflow script has no CR control
+# characters (the Workflow approval dialog rejects them on Windows clones).
+* text=auto eol=lf
+*.js text eol=lf
+*.md text eol=lf
+*.json text eol=lf
